@@ -1,0 +1,24 @@
+total 888
+ drwxrwxr-x  3 acs acs   4096 Jul 29 14:02 10
+ drwxrwxr-x  2 acs acs   4096 Jul  8 22:46 11
+ drwxrwxr-x  2 acs acs   4096 Jul 15 22:02 12
+ drwxrwxr-x  2 acs acs   4096 Jul 29 14:13 13
+ drwxrwxr-x  2 acs acs   4096 Jul 29 14:23 14
+ drwxrwxr-x  2 acs acs   4096 Jul 30 21:09 15
+ -rwxrwxr-x  1 acs acs    698 Mar 17 14:34 1.plx
+ drwxrwxr-x  2 acs acs   4096 Mar 17 15:05 2
+ drwxrwxr-x  2 acs acs   4096 Mar 28 09:27 3
+ drwxrwxr-x  2 acs acs   4096 Mar 30 11:55 4
+ drwxrwxr-x  2 acs acs   4096 Apr 18 20:40 5
+ drwxrwxr-x  2 acs acs   4096 Jun  3 16:25 6
+ drwxrwxr-x  3 acs acs   4096 Jun  4 14:41 7
+ drwxrwxr-x  2 acs acs   4096 Jun  5 17:18 8
+ drwxrwxr-x  2 acs acs   4096 Jun  8 10:33 9
+ drwxrwxr-x 12 acs acs   4096 Jun  5 16:23 Learning-Perl-Sample-Files
+ -rwxrwxr-x  1 acs acs     41 Mar  3 18:45 my_program.plx
+ -rw-rw-r--  1 acs acs 420168 Jun 10 18:11 perlfunc
+ -rw-rw-r--  1 acs acs 164017 Jun  5 09:52 perlop
+ -rw-rw-r--  1 acs acs 143287 Jun  5 09:19 perlre
+ -rw-rw-r--  1 acs acs  95866 Jun  5 09:22 perlunicode
+ -rwxrwxr-x  1 acs acs     28 Mar 17 15:01 test.sh
+ -rwxrwxr-x  1 acs acs    233 Mar  8 21:15 value.plx
